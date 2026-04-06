@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 动态渐变波浪头图 - 采用深邃大气的红黑配色 -->
-<!-- 这里的 desc= 后面是被URL编码后的“所见即所思，所思即所得” -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,50:EF4444,100:FCA5A5&height=220&section=header&text=Hi,%20I'm%20YoKONCy&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E6%89%80%E8%A7%81%E5%8D%B3%E6%89%80%E6%80%9D%EF%BC%8C%E6%89%80%E6%80%9D%E5%8D%B3%E6%89%80%E5%BE%97&descSize=24&descAlignY=65&animation=twinkling" width="100%"/>
+<!-- 🌊 动态渐变波浪头图 - 梦幻蓝粉渐变配色 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi,%20I'm%20YoKONCy&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%E6%89%80%E8%A7%81%E5%8D%B3%E6%89%80%E6%80%9D%EF%BC%8C%E6%89%80%E6%80%9D%E5%8D%B3%E6%89%80%E5%BE%97&descSize=24&descAlignY=65&animation=twinkling" width="100%"/>
 
 <br/>
 
-<!-- 多行动态打字效果 (引入东方风格的字体) -->
+<!-- 多行动态打字效果 -->
 <a href="https://github.com/YoKONCy">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=28&duration=4000&pause=1000&color=B91C1C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Game+Developer+%E2%9C%A6+AI+Enthusiast;Creating+Infinite+Narratives...;Welcome+to+my+world+%E2%9C%A8" alt="Typing effect" />
+  <!-- 这里我也把打字机的颜色同步调成了淡紫色(8B5CF6)，以匹配蓝粉渐变主题 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Game+Developer+%E2%9C%A6+AI+Enthusiast;Creating+Infinite+Narratives...;Welcome+to+my+world+%E2%9C%A8" alt="Typing effect" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@
 
 <br/>
 
-<!-- 联系方式等自定义徽章按钮 -->
+<!-- 💌 联系方式等自定义徽章按钮 -->
 <p>
   <b>联系我 | 社交媒体</b><br/><br/>
   
@@ -44,17 +44,27 @@
     <img src="https://img.shields.io/badge/@YoKONCy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/！？强强？！-000000?style=flat-square&color=gray" alt="Blog"/>
+  <!-- 添加了你的专属 QQ 徽章，颜色是正宗的 QQ 蓝哦！ -->
+  <a href="tencent://message/?uin=2752026184&Site=&Menu=yes">
+    <img src="https://img.shields.io/badge/QQ-2752026184-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ"/>
   </a>
   &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/YoKONCy_个人主页-000000?style=flat-square&color=000000&labelColor=000000" alt="Blog"/>
+  </a>
+</p>
+
+<!-- ✨ get loli 主页访客动态计数器 ✨ -->
+<p>
+  <img src="https://count.getloli.com/get/@YoKONCy?theme=rule34" alt="YoKONCy Visitor Count" />
 </p>
 
 <!-- 动态像素风分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:FCA5A5&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <!-- 🌊 页脚波浪同样更换为蓝粉配色闭环 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:EC4899&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 </div>
