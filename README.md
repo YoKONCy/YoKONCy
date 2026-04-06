@@ -50,7 +50,7 @@
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/！？强强？！?style=flat-square&color=000000&labelColor=000000" alt=""/>
+    <img src="https://img.shields.io/badge/-！？强强？！-000000?style=flat-square&labelColor=000000" alt="强"/>
   </a>
 </p>
 
