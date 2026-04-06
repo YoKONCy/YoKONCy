@@ -23,27 +23,11 @@
 
 <br/><br/>
 
-<!-- 技能徽章墙 (采用食堂README一致的扁平化质感) -->
-<a href="https://vuejs.org/">
-  <img src="https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000" alt="Vue">
+<!-- 🎯 重点在这里：你专属的技能徽章墙 -->
+<a href="https://github.com/YoKONCy">
+  <!-- i= 后面跟着的就是你点名要的所有技能，不用做任何排版它自己会弄好！ -->
+  <img src="https://skillicons.dev/icons?i=rust,python,vue,ts,go,docker" alt="My Skills" />
 </a>
-&nbsp;
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" alt="TS">
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Wasm-SQLite-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&labelColor=000000" alt="WASM">
-</a>
-&nbsp;
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" alt="Node">
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Photoshop-UI_Design-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=000000" alt="PS">
-</a>
-
 <br/><br/>
 
 <p style="font-size: 16px; color: #8E8E93;">
