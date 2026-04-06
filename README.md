@@ -47,8 +47,7 @@
 <br/><br/>
 
 <p style="font-size: 16px; color: #8E8E93;">
-  Vibe Coding大🐍<br/>
-  💰 <b>YoKONCy</b> 👑 | 码农烧烤 🔥 💰
+  Vibe Coding大🐍 | 码农烧烤🔥
 </p>
 
 <br/>
