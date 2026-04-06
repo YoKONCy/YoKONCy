@@ -62,12 +62,9 @@
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/YoKONCy_！？强强？！-000000?style=flat-square&color=gray" alt="Button 1"/>
+    <img src="https://img.shields.io/badge/YoKONCy_！？强强？！-000000?style=flat-square&color=gray" alt="Blog"/>
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/YoKONCy_个人主页-000000?style=flat-square&color=000000&labelColor=000000" alt="Blog"/>
-  </a>
 </p>
 
 <!-- 动态像素风分隔线 -->
