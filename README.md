@@ -19,7 +19,7 @@
 <br/>
 
 <!-- 中间的巨大特效字 (可以用一张你的个性化透明底Logo图片替代，这里我用了一个漂亮的文字SVG代替) -->
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=72&duration=10&pause=100000000&color=FFFFFF&center=true&vCenter=true&width=400&height=120&lines=YoKONCy" alt="Logo" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=72&duration=10&pause=100000000&color=FFFFFF&center=true&vCenter=true&width=400&height=120&lines=YoKONCy." alt="Logo" />
 
 <br/><br/>
 
@@ -50,7 +50,7 @@
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/！？强强？！?style=flat-square&color=000000&labelColor=000000" alt="Blog"/>
+    <img src="https://img.shields.io/badge/！？强强？！?style=flat-square&color=000000&labelColor=000000" alt=""/>
   </a>
 </p>
 
