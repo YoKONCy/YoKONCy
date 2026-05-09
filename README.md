@@ -46,7 +46,7 @@
   &nbsp;
   <!-- 添加了你的专属 QQ 徽章，颜色是正宗的 QQ 蓝哦！ -->
   <a href="tencent://message/?uin=2752026184&Site=&Menu=yes">
-    <img src="https://img.shields.io/badge/QQ-2752026184-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ"/>
+    <img src="https://img.shields.io/badge/QQ-2752026184@qq.com-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ"/>
   </a>
   &nbsp;
   <a href="#">
