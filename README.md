@@ -8,7 +8,7 @@
 <!-- 多行动态打字效果 -->
 <a href="https://github.com/YoKONCy">
   <!-- 这里我也把打字机的颜色同步调成了淡紫色(8B5CF6)，以匹配蓝粉渐变主题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Game+Developer+%E2%9C%A6+AI+Enthusiast;Creating+Infinite+Narratives...;Welcome+to+my+world+%E2%9C%A8" alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Independent+Developer+%E2%9C%A6+AI+Enthusiast;Creating+Infinite+Narratives...;Welcome+to+my+world+%E2%9C%A8" alt="Typing effect" />
 </a>
 
 <br/>
